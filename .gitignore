@@ -48,3 +48,6 @@ Icon*
 
 # Eclipse
 .settings
+
+# Tag files
+tags
